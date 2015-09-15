@@ -1,0 +1,11 @@
+c:\users\wanna be chris brown\documents\visual studio 2013\Projects\CharacterDisplay\CharacterDisplay\CharacterDisplay\bin\x86\Debug\CharacterDisplay.exe
+c:\users\wanna be chris brown\documents\visual studio 2013\Projects\CharacterDisplay\CharacterDisplay\CharacterDisplay\bin\x86\Debug\CharacterDisplay.pdb
+c:\users\wanna be chris brown\documents\visual studio 2013\Projects\CharacterDisplay\CharacterDisplay\CharacterDisplay\obj\x86\Debug\CharacterDisplay.csprojResolveAssemblyReference.cache
+c:\users\wanna be chris brown\documents\visual studio 2013\Projects\CharacterDisplay\CharacterDisplay\CharacterDisplay\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\wanna be chris brown\documents\visual studio 2013\Projects\CharacterDisplay\CharacterDisplay\CharacterDisplay\obj\x86\Debug\CharacterDisplay.exe
+c:\users\wanna be chris brown\documents\visual studio 2013\Projects\CharacterDisplay\CharacterDisplay\CharacterDisplay\obj\x86\Debug\CharacterDisplay.pdb
+C:\Users\wanna be chris brown\documents\visual studio 2013\Projects\CharacterDisplay\CharacterDisplay\CharacterDisplay\bin\x86\Debug\Content\cartoonCharacterR.xnb
+C:\Users\wanna be chris brown\documents\visual studio 2013\Projects\CharacterDisplay\CharacterDisplay\CharacterDisplay\bin\x86\Debug\Content\cartoonCharacterL.xnb
+C:\Users\wanna be chris brown\documents\visual studio 2013\Projects\CharacterDisplay\CharacterDisplay\CharacterDisplay\bin\x86\Debug\Content\dagger.xnb
+C:\Users\wanna be chris brown\documents\visual studio 2013\Projects\CharacterDisplay\CharacterDisplay\CharacterDisplay\bin\x86\Debug\Content\GameFont.xnb
+C:\Users\wanna be chris brown\documents\visual studio 2013\Projects\CharacterDisplay\CharacterDisplay\CharacterDisplay\bin\x86\Debug\Content\bg_game.xnb

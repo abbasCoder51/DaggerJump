@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>cartoonCharacterR.png</Source>
+      <Name>cartoonCharacterR</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\wanna be chris brown\documents\visual studio 2013\Projects\CharacterDisplay\CharacterDisplay\CharacterDisplay\bin\x86\Debug\Content\cartoonCharacterR.xnb</Output>
+      <Time>2015-09-09T20:18:43.6476819+01:00</Time>
+    </Item>
+    <Item>
+      <Source>cartoonCharacterL.png</Source>
+      <Name>cartoonCharacterL</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\wanna be chris brown\documents\visual studio 2013\Projects\CharacterDisplay\CharacterDisplay\CharacterDisplay\bin\x86\Debug\Content\cartoonCharacterL.xnb</Output>
+      <Time>2015-09-10T20:26:35.6175492+01:00</Time>
+    </Item>
+    <Item>
+      <Source>dagger.png</Source>
+      <Name>dagger</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\wanna be chris brown\documents\visual studio 2013\Projects\CharacterDisplay\CharacterDisplay\CharacterDisplay\bin\x86\Debug\Content\dagger.xnb</Output>
+      <Time>2015-09-10T23:55:27.8999052+01:00</Time>
+    </Item>
+    <Item>
+      <Source>GameFont.spritefont</Source>
+      <Name>GameFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\wanna be chris brown\documents\visual studio 2013\Projects\CharacterDisplay\CharacterDisplay\CharacterDisplay\bin\x86\Debug\Content\GameFont.xnb</Output>
+      <Time>2015-09-13T00:42:24.1038119+01:00</Time>
+    </Item>
+    <Item>
+      <Source>bg_game.png</Source>
+      <Name>bg_game</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\wanna be chris brown\documents\visual studio 2013\Projects\CharacterDisplay\CharacterDisplay\CharacterDisplay\bin\x86\Debug\Content\bg_game.xnb</Output>
+      <Time>2015-09-15T20:26:24.0160301+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{407F11C8-0166-4AF2-A30C-CE836432E272}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\wanna be chris brown\documents\visual studio 2013\Projects\CharacterDisplay\CharacterDisplay\CharacterDisplayContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\wanna be chris brown\documents\visual studio 2013\Projects\CharacterDisplay\CharacterDisplay\CharacterDisplay\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\wanna be chris brown\documents\visual studio 2013\Projects\CharacterDisplay\CharacterDisplay\CharacterDisplay\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\wanna be chris brown\documents\visual studio 2013\Projects\CharacterDisplay\CharacterDisplay\CharacterDisplay\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2012-09-06T15:52:54+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2012-09-06T15:52:54+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2012-09-06T15:52:54+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2012-09-06T15:52:54+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2012-09-06T15:52:54+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2012-09-06T15:52:54+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-11-21T20:06:11.3691263+00:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
